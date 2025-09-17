@@ -1,0 +1,14 @@
+{
+  "id": "2 For 1 Tarots",
+  "name": "2 For 1 Tarots",
+  "display_name": "2 For 1 Tarots",
+  "author": ["Hailfire805"],
+  "description": "Allows The Devil, The Chariot, The Tower, The Lovers, and Justice Tarot Cards to enhance 2 Cards instead of 1.",
+  "prefix": "2For1Tarots",
+  "main_file": "2For1Tarots.lua",
+  "priority": 0,
+  "badge_colour": "DDDDDD",
+  "badge_text_colour": "FF0000",
+  "version": "1.0.0",
+  "dependencies": ["Steamodded (>=1.*)", "Lovely (>=0.6)"]
+}
